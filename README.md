@@ -1,5 +1,5 @@
 # snakegame C++ SFML 🐍
-![image]({https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white})
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 # About game
 There are no apples spawn in this game right now. There is only a background and a snake moving on WASD. 
