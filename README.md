@@ -1,6 +1,6 @@
 # snakegame C++ SFML 🐍
 There are no apples spawn in this game right now. There is only a background and a snake moving on WASD.
-
+![img](https://github.com/Flartiks/snakegame/blob/main/docs/screenshot.png)
 # How to build?
 Dependences - cmake, git, g++ / MinGW 
 
